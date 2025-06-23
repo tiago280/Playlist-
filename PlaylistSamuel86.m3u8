@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/TV_Cultura_logo_2020.png",TV Cultura (Brasil)
+https://video.cultura.com.br/live/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YEQHldv.png",FilmON Movies (Filmes e séries clássicos)
+http://31.220.41.88:8081/filmonmovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeYLrOh.png",CGTN Documentário (em inglês)
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/DW_%28TV%29_Logo_2012.svg/1024px-DW_%28TV%29_Logo_2012.svg.png",DW Documentários (alemão com legendas)
+https://dwamdstream103.akamaized.net/hls/live/2015525/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNyhQOB.png",NASA TV (incríveis vídeos espaciais!)
+https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
