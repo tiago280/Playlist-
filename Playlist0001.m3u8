@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3kOYu3W.png",Terror Filmes (Clássicos e Gore)
+https://movies-07.plex-cdn.com/plex/live/Screambox-TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UvQlJzv.png",Dark Matter TV (Terror e Sci-Fi)
+https://darkmatter-plex.amagi.tv/hls/amagi_hls_data_darkmatter-plex_plex/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1v8LQM.png",Cult Films (Terror cult e alternativo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-cultfilms/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X8cyhHQ.png",Binge Horror (Terror B e underground)
+https://binge-horror-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWILn9k.png",Midnight Pulp (Terror e bizarro)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-midnightpulp/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RStT5NL.png",Bloody Disgusting TV (Terror moderno)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-bloodydisgusting/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xnPYd0r.png",Fear Factory (Terror intenso)
+https://dai.google.com/linear/hls/event/fearfactorytv/playlist.m3u8
